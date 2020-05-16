@@ -3,7 +3,7 @@
 ![alt text](http://i.ytimg.com/vi/mSy5mEcmgwU/maxresdefault.jpg)
 
 ## Background of problem statement
-To build a best accurate machine learning model which detects the sarcastic sentences.
+To build an accurate model which detects the sarcastic sentences.
 
 ## About the dataset
 Studies in Sarcasm Detection mostly make use of Twitter datasets collected using hashtag based supervision but such datasets are noisy in terms of labels and language. Furthermore, many tweets are replies to other tweets and detecting sarcasm in these requires the availability of contextual tweets.
