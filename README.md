@@ -1,1 +1,1 @@
-# Sarcasm-Detection
+# News Headlines Dataset for Sarcasm Detection
