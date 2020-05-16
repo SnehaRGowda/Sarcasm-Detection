@@ -30,3 +30,13 @@ Each record consists of three attributes:
 ## Link to the Dataset
 https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection
 
+## Installation
+Install the latest version of Anaconda for python 3 from this link (https://repo.anaconda.com/archive/) ,once you open the link, you'll find a long list of installers, choose the latest version and download the relevent OS installer and install it.
+
+To download the ipynb file from GitHub-
+
+Click on Raw
+Then, press ctrl+s to save it as .ipynb
+Open jupyter notebook
+Go to location where you saved .ipynb file
+Open that file and start executing
