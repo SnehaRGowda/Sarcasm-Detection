@@ -35,8 +35,8 @@ Install the latest version of Anaconda for python 3 from this link (https://repo
 
 To download the ipynb file from GitHub-
 
-Click on Raw
-Then, press ctrl+s to save it as .ipynb
-Open jupyter notebook
-Go to location where you saved .ipynb file
-Open that file and start executing
+* Click on Raw
+* Then, press ctrl+s to save it as .ipynb
+* Open jupyter notebook
+* Go to location where you saved .ipynb file
+* Open that file and start executing
